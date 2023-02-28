@@ -1,0 +1,14 @@
+#navigation {
+    // background-color: rgba(9 2 2 / 0.5);
+    background-color: rgba(0 0 0 / 0.66);
+    color: white;
+    position: fixed;
+    width: 20%;
+    height: 50%;
+    top: calc(100%/2 - 50%/2);
+    border-radius: 0 1.8rem 1.8rem 0;
+    // border-radius: 0 0 2rem 0;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
