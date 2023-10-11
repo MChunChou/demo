@@ -4,4 +4,16 @@ body {
     margin: 0;
 }
 
-.flex-center {}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hide {
+    opacity: 0;
+}
+
+.vh100 {
+    height: 100vh;
+}

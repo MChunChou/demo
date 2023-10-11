@@ -21,6 +21,6 @@
         "indent": "off",
         "require-jsdoc": "off",
         "no-unused-vars": "off",
-        "space-infix-ops": "error"
+        "space-infix-ops": "error"        
     }
 }

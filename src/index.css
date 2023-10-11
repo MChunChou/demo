@@ -1,3 +1,4 @@
+
 .warn {
   color: blue;
   border: 1px solid;
@@ -31,4 +32,8 @@
 
 .App span {
   padding: 10px;
+}
+
+.hide {
+  opacity: 0;
 }
